@@ -1,0 +1,38 @@
+D:\Pragram Test\Test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Pragram Test\Test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+D:\Pragram Test\Test\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+D:\Pragram Test\Test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+D:\Pragram Test\Test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+D:\Pragram Test\Test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+D:\Pragram Test\Test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+D:\Pragram Test\Test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\Pragram Test\Test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+D:\Pragram Test\Test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.StringForm2.resources
+D:\Pragram Test\Test\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FileForm3.resources
+E:\百度云同步盘\C# HomeWork\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\百度云同步盘\C# HomeWork\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\百度云同步盘\C# HomeWork\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\百度云同步盘\C# HomeWork\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+E:\百度云同步盘\C# HomeWork\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FileForm3.resources
+E:\百度云同步盘\C# HomeWork\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\百度云同步盘\C# HomeWork\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\百度云同步盘\C# HomeWork\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.StringForm2.resources
+E:\百度云同步盘\C# HomeWork\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\百度云同步盘\C# HomeWork\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\百度云同步盘\C# HomeWork\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\SEM\Documents\百度云同步盘\C# HomeWork\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\SEM\Documents\百度云同步盘\C# HomeWork\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\SEM\Documents\百度云同步盘\C# HomeWork\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\BaiduYunDownload\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+E:\BaiduYunDownload\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+E:\BaiduYunDownload\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+E:\BaiduYunDownload\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+E:\BaiduYunDownload\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+E:\BaiduYunDownload\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.FileForm3.resources
+E:\BaiduYunDownload\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+E:\BaiduYunDownload\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+E:\BaiduYunDownload\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.StringForm2.resources
+E:\BaiduYunDownload\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+E:\BaiduYunDownload\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2._04_SockerServerForm.resources
+E:\BaiduYunDownload\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2._05_SocketClientForm.resources
+E:\BaiduYunDownload\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
