@@ -75,6 +75,7 @@
             this.cbox_LineTypeSelect.Name = "cbox_LineTypeSelect";
             this.cbox_LineTypeSelect.Size = new System.Drawing.Size(105, 20);
             this.cbox_LineTypeSelect.TabIndex = 3;
+            this.cbox_LineTypeSelect.SelectedValueChanged += new System.EventHandler(this.cbox_LineTypeSelect_SelectedValueChanged);
             // 
             // btn_Run
             // 
@@ -120,6 +121,7 @@
             this.LineNoSelect.Name = "LineNoSelect";
             this.LineNoSelect.Size = new System.Drawing.Size(105, 20);
             this.LineNoSelect.TabIndex = 3;
+            this.LineNoSelect.SelectedValueChanged += new System.EventHandler(this.LineNoSelect_SelectedValueChanged);
             // 
             // label4
             // 
@@ -175,6 +177,8 @@
             this.Controls.Add(this.cbox_VersionSelect);
             this.Controls.Add(this.btn_Open);
             this.Controls.Add(this.tbox_Path);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.MaximizeBox = false;
             this.Name = "SQLForm";
             this.Text = "SQL Runing Tools";
             this.Load += new System.EventHandler(this.SQLForm_Load);
