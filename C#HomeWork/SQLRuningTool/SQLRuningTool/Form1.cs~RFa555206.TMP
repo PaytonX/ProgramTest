@@ -1,0 +1,98 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+using System.IO;
+using System.Xml;
+
+namespace SQLRuningTool
+{
+    public partial class SQLForm : Form
+    {
+        public SQLForm()
+        {
+            InitializeComponent();
+        }
+
+        private void btn_Open_Click(object sender, EventArgs e)
+        {
+            FolderBrowserDialog fd = new FolderBrowserDialog();
+            if (fd.ShowDialog()==DialogResult.OK)
+            {
+                this.tbox_Path.Text = fd.SelectedPath.ToString();
+            }
+            ;
+
+            GetHostAddress();
+
+        }
+
+
+
+        #region 获取SQL文档
+        public void GetSQLFile()
+        {
+            string filePath = this.tbox_Path.Text+@"\";
+            
+            DirectoryInfo floder = new DirectoryInfo(filePath);
+            DirectoryInfo[] folderinfo = floder.GetDirectories();
+
+            foreach (DirectoryInfo NextFloder in folderinfo)
+            {
+                FileInfo[] fileInfo = NextFloder.GetFiles();
+
+                foreach (FileInfo NextFile in fileInfo)
+                {
+                    if (NextFile.Extension==".sql")
+                    {
+                        MessageBox.Show(NextFile.Name);
+                    }
+                    else
+                    {
+                        continue;
+                    }
+                }
+
+            }
+            
+
+           
+
+
+
+
+
+        }
+
+        #endregion
+
+        public void GetHostAddress()
+        {
+            XmlDocument doc = new XmlDocument();
+            doc.Load(System.Windows.Forms.Application.StartupPath.ToString()+ @"\DBConfig_PRODUCTION.xml");
+
+            XmlNode xn = doc.SelectSingleNode("LineSetting");
+            XmlNodeList xnl = xn.ChildNodes;
+
+            foreach (XmlNode xn1 in xnl)
+            {
+                XmlElement xe = (XmlElement)xn1;
+                string LineType = xe.GetAttribute("Name").ToString();
+                MessageBox.Show(LineType);
+            }
+
+
+
+        }
+
+
+    }
+
+
+
+}

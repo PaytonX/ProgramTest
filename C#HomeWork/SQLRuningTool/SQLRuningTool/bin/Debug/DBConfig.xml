@@ -1,0 +1,417 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LineSetting>
+  <Shop type="CF" >
+    <LineType Name="F1PHL">
+      <Line LineID = "F1PHL100" SocketIP="10.5.191.61" SocketPort="9000" DBConn="server=10.5.191.61;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.191.61;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "F1PHL200" SocketIP="10.5.191.59" SocketPort="9000" DBConn="server=10.5.191.59;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.191.59;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "F1PHL300" SocketIP="10.5.191.105" SocketPort="9000" DBConn="server=10.5.191.105;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.191.105;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "F1PHL400" SocketIP="10.5.191.108" SocketPort="9000" DBConn="server=10.5.191.108;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.191.108;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "F1PHL500" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="F1UPK">
+      <Line LineID = "F1UPK100" SocketIP="10.5.189.56" SocketPort="9000" DBConn="server=10.5.189.56;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.189.56;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="F1ISP">
+      <Line LineID = "F1ISP100" SocketIP="10.5.190.77" SocketPort="9000" DBConn="server=10.5.190.77;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.190.77;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="F1RWK">
+      <Line LineID = "F1RWK100" SocketIP="10.5.167.82" SocketPort="9000" DBConn="server=10.5.167.82;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.167.82;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="F1SAP_1">
+      <Line LineID = "F1SAP100" SocketIP="10.5.189.105" SocketPort="9000" DBConn="server=10.5.189.105;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                        HisDBConn="server=10.5.189.105;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="F1SAP_2">
+      <Line LineID = "F1SAP200" SocketIP="10.5.189.107" SocketPort="9000" DBConn="server=10.5.189.107;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.189.107;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="F1SAP_3">
+      <Line LineID = "F1SAP300" SocketIP="10.5.190.88" SocketPort="9000" DBConn="server=10.5.190.88;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.190.88;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="F1SAP_4">
+      <Line LineID = "F1SAP400" SocketIP="10.5.190.147" SocketPort="9000" DBConn="server=10.5.190.147;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.190.147;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="F1ACM">
+      <Line LineID = "F1ACM100" SocketIP="10.5.190.65" SocketPort="9000" DBConn="server=10.5.190.65;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"  
+                                                                      HisDBConn="server=10.5.190.65;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	    <Line LineID = "F1ACM200" SocketIP="10.5.190.64" SocketPort="9000" DBConn="server=10.5.190.64;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.190.64;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="F1FAH">
+      <Line LineID = "F1FAH100" SocketIP="10.5.188.86" SocketPort="9000" DBConn="server=10.5.188.86;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.188.86;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="F1DMA">
+      <Line LineID = "F1DMA100" SocketIP="10.5.166.101" SocketPort="9000" DBConn="server=10.5.166.101;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.166.101;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="F1FRE">
+      <Line LineID = "F1FRE100" SocketIP="10.5.190.80" SocketPort="9000" DBConn="server=10.5.190.80;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.190.80;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	    <Line LineID = "F1FRE200" SocketIP="10.5.190.171" SocketPort="9000" DBConn="server=10.5.190.171;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.190.171;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "F1FRE300" SocketIP="10.5.190.115" SocketPort="9000" DBConn="server=10.5.190.115;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.190.115;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "F1FRE400" SocketIP="10.5.190.112" SocketPort="9000" DBConn="server=10.5.190.112;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.190.112;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "F1FRE500" SocketIP="10.5.166.150" SocketPort="9000" DBConn="server=10.5.166.150;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.166.150;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "F1FRE600" SocketIP="10.5.167.77" SocketPort="9000" DBConn="server=10.5.167.77;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.167.77;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="F1IRP">
+      <Line LineID = "F1IRP100" SocketIP="10.5.190.161" SocketPort="9000" DBConn="server=10.5.190.161;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.190.161;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "F1IRP200" SocketIP="10.5.166.91" SocketPort="9000" DBConn="server=10.5.166.91;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.166.91;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="F1SOR">
+      <Line LineID = "F1SOR100" SocketIP="10.5.166.108" SocketPort="9000" DBConn="server=10.5.166.108;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.166.108;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "F1SOR200" SocketIP="10.5.166.87" SocketPort="9000" DBConn="server=10.5.166.87;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.166.87;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="F1MSC">
+      <Line LineID = "F1MSC100" SocketIP="10.5.191.90" SocketPort="9000" DBConn="server=10.5.191.90;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.191.90;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+  </Shop>
+  <Shop type="ARRAY" >
+    <LineType Name="A1PHL">
+      <Line LineID = "A1PHL100" SocketIP="10.5.182.52" SocketPort="9000" DBConn="server=10.5.182.52;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.182.52;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1PHL200" SocketIP="10.5.185.81" SocketPort="9000" DBConn="server=10.5.185.81;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.185.81;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1PHL300" SocketIP="10.5.182.71" SocketPort="9000" DBConn="server=10.5.182.71;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.182.71;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1PHL400" SocketIP="10.5.183.61" SocketPort="9000" DBConn="server=10.5.183.61;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.183.61;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1PHL500" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1PHL600" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1PHL700" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1CVD">
+      <Line LineID = "A1CVD100" SocketIP="10.5.187.55" SocketPort="9000" DBConn="server=10.5.187.55;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.187.55;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1CVD200" SocketIP="10.5.187.61" SocketPort="9000" DBConn="server=10.5.187.61;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.187.61;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1CVD300" SocketIP="10.5.187.76" SocketPort="9000" DBConn="server=10.5.187.76;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.187.76;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1CVD400" SocketIP="10.5.181.83" SocketPort="9000" DBConn="server=10.5.181.83;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.181.83;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1CVD500" SocketIP="10.5.184.69" SocketPort="9000" DBConn="server=10.5.184.69;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.184.69;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1CVD600" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1CVD700" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1MSP">
+      <Line LineID = "A1MSP100" SocketIP="10.5.185.56" SocketPort="9000" DBConn="server=10.5.185.56;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.185.56;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1MSP200" SocketIP="10.5.185.97" SocketPort="9000" DBConn="server=10.5.185.97;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.185.97;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1MSP300" SocketIP="10.5.186.67" SocketPort="9000" DBConn="server=10.5.186.67;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.186.67;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1MSP400" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1ISP">
+      <Line LineID = "A1ISP100" SocketIP="10.5.185.53" SocketPort="9000" DBConn="server=10.5.185.53;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.185.53;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1ISP200" SocketIP="10.5.185.104" SocketPort="9000" DBConn="server=10.5.185.104;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.185.104;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1OVN">
+      <Line LineID = "A1OVN100" SocketIP="10.5.166.61" SocketPort="9000" DBConn="server=10.5.166.61;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.166.61;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+     <Line LineID = "A1OVN200" SocketIP="10.5.167.67" SocketPort="9000" DBConn="server=10.5.167.67;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.167.67;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1UPK">
+      <Line LineID = "A1UPK100" SocketIP="10.5.189.53" SocketPort="9000" DBConn="server=10.5.189.53;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.189.53;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1DET">
+      <Line LineID = "A1DET100" SocketIP="10.5.181.69" SocketPort="9000" DBConn="server=10.5.181.69;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.181.69;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1DET200" SocketIP="10.5.181.78" SocketPort="9000" DBConn="server=10.5.181.78;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.181.78;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1DET300" SocketIP="10.5.181.75" SocketPort="9000" DBConn="server=10.5.181.75;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.181.75;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1DET400" SocketIP="10.5.187.192" SocketPort="9000" DBConn="server=10.5.187.192;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.187.192;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1DET500" SocketIP="10.5.184.80" SocketPort="9000" DBConn="server=10.5.184.80;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.184.80;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1DET600" SocketIP="10.5.184.75" SocketPort="9000" DBConn="server=10.5.184.75;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.184.75;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1DET700" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>																	   
+    </LineType>
+    <LineType Name="A1WET">
+      <Line LineID = "A1WET100" SocketIP="10.5.181.56" SocketPort="9000" DBConn="server=10.5.181.56;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.181.56;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1WET200" SocketIP="10.5.181.60" SocketPort="9000" DBConn="server=10.5.181.60;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.181.60;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>	
+      <Line LineID = "A1WET300" SocketIP="10.5.181.59" SocketPort="9000" DBConn="server=10.5.181.59;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.181.59;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1WET400" SocketIP="10.5.181.93" SocketPort="9000" DBConn="server=10.5.181.93;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.181.93;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1WET500" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1WET600" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>																   
+    </LineType>
+    <LineType Name="A1STR">
+      <Line LineID = "A1STR100" SocketIP="10.5.181.155" SocketPort="9000" DBConn="server=10.5.181.155;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.181.155;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1STR200" SocketIP="10.5.184.65" SocketPort="9000" DBConn="server=10.5.184.65;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.184.65;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1STR300" SocketIP="10.5.184.60" SocketPort="9000" DBConn="server=10.5.184.60;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.184.60;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1STR400" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1STR500" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1STR600" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>																	   
+    </LineType>
+    <LineType Name="A1AOH">
+      <Line LineID = "A1AOH100" SocketIP="10.5.188.68" SocketPort="9000" DBConn="server=10.5.188.68;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.188.68;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1AOH200" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1AOH300" SocketIP="10.5.185.75" SocketPort="9000" DBConn="server=10.5.185.75;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.185.75;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1AOH400" SocketIP="10.5.185.103" SocketPort="9000" DBConn="server=10.5.185.103;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.185.103;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1MAC">
+      <Line LineID = "A1MAC100" SocketIP="10.5.189.71" SocketPort="9000" DBConn="server=10.5.189.71;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.189.71;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1MAC200" SocketIP="10.5.185.89" SocketPort="9000" DBConn="server=10.5.185.89;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.185.89;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1ADS">
+      <Line LineID = "A1ADS100" SocketIP="10.5.189.81" SocketPort="9000" DBConn="server=10.5.189.81;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.189.81;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1SCN">
+      <Line LineID = "A1SCN100" SocketIP="10.5.189.91" SocketPort="9000" DBConn="server=10.5.189.91;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.189.91;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1ATT">
+      <Line LineID = "A1ATT300" SocketIP="10.5.166.66" SocketPort="9000" DBConn="server=10.5.166.66;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.166.66;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1ATT100" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=127.0.0.1;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=127.0.0.1;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1ATT200" SocketIP="10.5.166.134" SocketPort="9000" DBConn="server=10.5.166.134;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                      HisDBConn="server=10.5.166.134;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1TTP">
+      <Line LineID = "A1TTP100" SocketIP="10.5.185.73" SocketPort="9000" DBConn="server=10.5.185.73;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.185.73;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1TEG">
+      <Line LineID = "A1TEG100" SocketIP="10.5.166.81" SocketPort="9000" DBConn="server=10.5.166.81;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.166.81;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1NAN">
+      <Line LineID = "A1NAN100" SocketIP="10.5.186.59" SocketPort="9000" DBConn="server=10.5.186.59;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                      HisDBConn="server=10.5.186.59;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1NAN200" SocketIP="10.5.186.61" SocketPort="9000" DBConn="server=10.5.186.61;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.186.61;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1OST">
+      <Line LineID = "A1OST100" SocketIP="10.5.190.102" SocketPort="9000" DBConn="server=10.5.190.102;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.190.102;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1OST200" SocketIP="10.5.190.79" SocketPort="9000" DBConn="server=10.5.190.79;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.190.79;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1OST300" SocketIP="10.5.190.132" SocketPort="9000" DBConn="server=10.5.190.132;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.190.132;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1OST400" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1REP">
+      <Line LineID = "A1REP100" SocketIP="10.5.188.99" SocketPort="9000" DBConn="server=10.5.188.99;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.188.99;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1REP200" SocketIP="10.5.165.70" SocketPort="9000" DBConn="server=10.5.165.70;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.165.70;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "A1REP300" SocketIP="10.5.166.117" SocketPort="9000" DBConn="server=10.5.166.117;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.166.117;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1REP400" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1LRP">
+      <Line LineID = "A1LRP100" SocketIP="10.5.188.89" SocketPort="9000" DBConn="server=10.5.188.89;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.188.89;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1LRP200" SocketIP="10.5.187.85" SocketPort="9000" DBConn="server=10.5.187.85;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.187.85;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+			<Line LineID = "A1LRP300" SocketIP="10.5.166.145" SocketPort="9000" DBConn="server=10.5.166.145;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.166.145;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1ACR">
+      <Line LineID = "A1ACR100" SocketIP="10.5.187.98" SocketPort="9000" DBConn="server=10.5.190.103;database=UNIBCS_HKC;uid=sa;pwd=itc123!@#"
+                                                                       HisDBConn="server=10.5.190.103;database=UniBCS_HKC_HIS;uid=sa;pwd=itc123!@#"/>
+	  <Line LineID = "A1ACR200" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UNIBCS_HKC;uid=sa;pwd=itc123!@#"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=itc123!@#"/>
+    </LineType>
+    <LineType Name="A1SOR">
+      <Line LineID = "A1SOR100" SocketIP="10.5.166.126" SocketPort="9000" DBConn="server=10.5.166.126;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.166.126;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "A1SOR200" SocketIP="10.5.166.129" SocketPort="9000" DBConn="server=10.5.166.129;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1CST">
+      <Line LineID = "A1CST100" SocketIP="10.5.166.68" SocketPort="9000" DBConn="server=10.5.166.68;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.166.68;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="A1GCV">
+      <Line LineID = "A1GCV100" SocketIP="10.5.189.85" SocketPort="9000" DBConn="server=10.5.189.85;database=UNIBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.189.85;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+  </Shop>
+  <Shop type="CELL" >
+    <LineType Name="C1BPI">
+      <Line LineID = "C1BPI100" SocketIP="10.5.165.60" SocketPort="9000" DBConn="server=10.5.165.60;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.165.60;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "C1BPI200" SocketIP="10.5.165.65" SocketPort="9000" DBConn="server=10.5.165.65;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.165.65;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="C1PIR">
+      <Line LineID = "C1PIR100" SocketIP="10.5.165.62" SocketPort="9000" DBConn="server=10.5.165.62;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.165.62;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="C1AMA">
+      <Line LineID = "C1AMA100" SocketIP="10.5.164.59" SocketPort="9000" DBConn="server=10.5.164.59;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.164.59;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="C1ODF">
+      <Line LineID = "C1ODF100" SocketIP="10.5.164.70" SocketPort="9000" DBConn="server=10.5.164.70;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.164.70;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "C1ODF200" SocketIP="10.5.164.93" SocketPort="9000" DBConn="server=10.5.164.93;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.164.93;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="C1FSA">
+      <Line LineID = "C1FSA100" SocketIP="10.5.163.57" SocketPort="9000" DBConn="server=10.5.163.57;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.163.57;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "C1FSA200" SocketIP="10.5.161.62" SocketPort="9000" DBConn="server=10.5.161.62;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.161.62;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "C1FSA300" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="C1CUT">
+      <Line LineID = "C1CUT100" SocketIP="10.5.172.76" SocketPort="9000" DBConn="server=10.5.172.76;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.172.76;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+  	  <Line LineID = "C1CUT200" SocketIP="10.5.171.82" SocketPort="9000" DBConn="server=10.5.171.82;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.171.82;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "C1CUT300" SocketIP="10.5.171.83" SocketPort="9000" DBConn="server=10.5.171.83;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.171.83;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "C1CUT400" SocketIP="10.5.171.102" SocketPort="9000" DBConn="server=10.5.171.102;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.171.102;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "C1CUT500" SocketIP="10.5.171.100" SocketPort="9000" DBConn="server=10.5.171.100;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.171.100;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "C1CUT600" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "C1CUT700" SocketIP="10.5.171.117" SocketPort="9000" DBConn="server=10.5.171.117;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.171.117;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="C1POL_1">
+       <Line LineID = "C1POL200" SocketIP="10.5.172.124" SocketPort="9000" DBConn="server=10.5.172.124;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.172.124;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "C1POL300" SocketIP="10.5.172.122" SocketPort="9000" DBConn="server=10.5.172.122;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.172.122;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "C1POL400" SocketIP="10.5.172.133" SocketPort="9000" DBConn="server=10.5.172.133;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.172.133;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="C1POL_2">
+     
+	 <Line LineID = "C1POL100" SocketIP="10.5.172.62" SocketPort="9000" DBConn="server=10.5.172.62;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.172.62;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+     
+    </LineType>
+    <LineType Name="C1LOI">
+      <Line LineID = "C1LOI100" SocketIP="10.5.173.75" SocketPort="9000" DBConn="server=10.5.173.75;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.173.75;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "C1LOI300" SocketIP="10.5.174.178" SocketPort="9000" DBConn="server=10.5.174.178;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.174.178;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "C1LOI200" SocketIP="10.5.173.85" SocketPort="9000" DBConn="server=10.5.173.85;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.173.85;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "C1LOI400" SocketIP="10.5.174.179" SocketPort="9000" DBConn="server=10.5.174.179;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.174.179;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "C1LOI500" SocketIP="10.5.174.175" SocketPort="9000" DBConn="server=10.5.174.175;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.174.175;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "C1LOI600" SocketIP="10.5.174.176" SocketPort="9000" DBConn="server=10.5.174.176;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.174.176;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+   	  <Line LineID = "C1LOI700" SocketIP="10.5.172.105" SocketPort="9000" DBConn="server=10.5.172.105;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.172.105;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "C1LOI800" SocketIP="10.5.173.116" SocketPort="9000" DBConn="server=localhost;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="C1NRP">
+      <Line LineID = "C1NRP100" SocketIP="10.5.173.53" SocketPort="9000" DBConn="server=10.5.173.53;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.173.53;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "C1NRP200" SocketIP="10.5.173.51" SocketPort="9000" DBConn="server=10.5.173.51;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.173.51;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="C1GAP">
+      <Line LineID = "C1GAP100" SocketIP="10.5.161.60" SocketPort="9000" DBConn="server=10.5.161.60;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.161.60;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "C1GAP200" SocketIP="10.5.162.71" SocketPort="9000" DBConn="server=10.5.162.71;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.162.71;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="M1OLB_1">
+	
+	  <Line LineID = "M1OLB300" SocketIP="10.5.174.89" SocketPort="9000" DBConn="server=10.5.174.89;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.174.89;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "M1OLB400" SocketIP="10.5.174.86" SocketPort="9000" DBConn="server=10.5.174.86;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.174.86;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      
+    </LineType>
+    <LineType Name="M1OLB_2">
+      <Line LineID = "M1OLB100" SocketIP="127.0.0.1" SocketPort="9000" DBConn="server=localhost;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=localhost;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "M1OLB200" SocketIP="10.5.174.222" SocketPort="9000" DBConn="server=10.5.174.222;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.174.222;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+      <Line LineID = "M1OLB500" SocketIP="10.5.174.85" SocketPort="9000" DBConn="server=10.5.174.85;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.174.85;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="C1PST">
+      <Line LineID = "C1PST100" SocketIP="10.5.173.99" SocketPort="9000" DBConn="server=10.5.173.99;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.173.99;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+	  <Line LineID = "C1PST200" SocketIP="10.5.167.60" SocketPort="9000" DBConn="server=10.5.167.60;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.167.60;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="C1DOM">
+      <Line LineID = "C1DOM100" SocketIP="10.5.173.97" SocketPort="9000" DBConn="server=10.5.173.97;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.173.97;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="C1LSC">
+      <Line LineID = "C1LSC100" SocketIP="10.5.173.108" SocketPort="9000" DBConn="server=10.5.173.108;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.173.108;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="C1CSC">
+      <Line LineID = "C1CSC100" SocketIP="10.5.165.88" SocketPort="9000" DBConn="server=10.5.165.88;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.165.88;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+    <LineType Name="C1GCV">
+      <Line LineID = "C1GCV100" SocketIP="10.5.163.70" SocketPort="9000" DBConn="server=10.5.163.70;database=UniBCS_HKC;uid=sa;pwd=!@#bcs123"
+                                                                       HisDBConn="server=10.5.163.70;database=UniBCS_HKC_HIS;uid=sa;pwd=!@#bcs123"/>
+    </LineType>
+  </Shop>
+</LineSetting>
+
+
