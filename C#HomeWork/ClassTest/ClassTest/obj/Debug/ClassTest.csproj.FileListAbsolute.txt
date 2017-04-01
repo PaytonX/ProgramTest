@@ -1,0 +1,12 @@
+D:\Pace.xiong\Source\Repos\ProgramTest\C#HomeWork\ClassTest\ClassTest\bin\Debug\ClassTest.exe.config
+D:\Pace.xiong\Source\Repos\ProgramTest\C#HomeWork\ClassTest\ClassTest\obj\Debug\ClassTest.csprojResolveAssemblyReference.cache
+D:\Pace.xiong\Source\Repos\ProgramTest\C#HomeWork\ClassTest\ClassTest\bin\Debug\ClassTest.exe
+D:\Pace.xiong\Source\Repos\ProgramTest\C#HomeWork\ClassTest\ClassTest\bin\Debug\ClassTest.pdb
+D:\Pace.xiong\Source\Repos\ProgramTest\C#HomeWork\ClassTest\ClassTest\obj\Debug\ClassTest.exe
+D:\Pace.xiong\Source\Repos\ProgramTest\C#HomeWork\ClassTest\ClassTest\obj\Debug\ClassTest.pdb
+D:\Pace.xiong\Source\Repos\ProgramTest\ProgramTest\C#HomeWork\ClassTest\ClassTest\bin\Debug\ClassTest.exe.config
+D:\Pace.xiong\Source\Repos\ProgramTest\ProgramTest\C#HomeWork\ClassTest\ClassTest\obj\Debug\ClassTest.exe
+D:\Pace.xiong\Source\Repos\ProgramTest\ProgramTest\C#HomeWork\ClassTest\ClassTest\obj\Debug\ClassTest.pdb
+D:\Pace.xiong\Source\Repos\ProgramTest\ProgramTest\C#HomeWork\ClassTest\ClassTest\bin\Debug\ClassTest.exe
+D:\Pace.xiong\Source\Repos\ProgramTest\ProgramTest\C#HomeWork\ClassTest\ClassTest\bin\Debug\ClassTest.pdb
+D:\Pace.xiong\Source\Repos\ProgramTest\ProgramTest\C#HomeWork\ClassTest\ClassTest\obj\Debug\ClassTest.csprojResolveAssemblyReference.cache
