@@ -8,58 +8,46 @@ namespace ClassTest
 {
     class Program
     {
+        enum Days { SAT=1 ,SUN,MON,TUE=1,WED,THU,FRI};
         static void Main(string[] args)
         {
+            //Days d = Days.SUN;
+            //Console.WriteLine(Convert.ToInt32(d));
+
             //Persen P1 = new Persen("熊大", 27);
             //P1.Display();
             //P1.SetName("熊二");
             //P1.SetAge(14);
             //P1.Display();
 
+            Persen onePerson = new Persen();
+            onePerson.Name = "田七";
+            string strName = onePerson.Name;
+            onePerson.Age = 20;
+            int intAge = onePerson.Age;
+            onePerson.Display();
+
             //P1 = new Persen();
             //P1.Display();
             //Console.ReadKey();
 
+            //Employee oneEmployee = new Employee("李国明",23,"南京自动化", 4500);
+            //oneEmployee.Display();
+            //oneEmployee.SetName("田胜");
+            //oneEmployee.SetAge(35);
+            //oneEmployee.Display();
+
+            //Test T1 = new Test(100, 200);
+            //T1.x = 40;//引用实例字段采用方法：实例名.实例字段名
+            //Test.cnt = 0;//引用静态字段采用方法:类名.静态字段名
+            //int z = T1.y;//引用只读字段
+            //z = Test.intMax;//引用常量
+            Console.ReadKey();
 
         }
     }
 
-    #region Person Class的完整例子
-    class Persen
-    {
-        //设定私有变量，无法从Class外部修改
-        private String name = "张三";
-        private int age = 12;
 
-        //在屏幕上打印信息
-        public void Display()
-        {
-            Console.WriteLine("姓名：{0},年龄：{1}", name, age);
-        }
-        //设置名称方法
-        public void SetName(String PersenName)
-        {
-            name = PersenName;
-        }
-        //设置年龄方法
-        public void SetAge(int PersenAge)
-        {
-            age = PersenAge;
-        }
-        //构造函数
-        public Persen(String Name,int Age)
-        {
-            name = Name;
-            age = Age;
-        }
-        //构造函数重载
-        public Persen()
-        {
-            name = "Gary";
-            age = 12;
-        }
-    }
-    #endregion
 
     struct point
     {
